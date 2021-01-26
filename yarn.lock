@@ -1484,10 +1484,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-table@^7.0.12":
-  version "7.0.12"
-  resolved "https://registry.yarnpkg.com/@types/react-table/-/react-table-7.0.12.tgz#cb57c8dfb110f8c2d0f04b9d44a70f9235a13b27"
-  integrity sha512-x/8nFrCjr1ySs51pkHsDQz3t+nW94qS/M9mpyLoweJNd9YKFzJ2mbVcUshfcMOyR1/UR+6lfz2EKA1lzOoJz+w==
+"@types/react-table@^7.0.28":
+  version "7.0.28"
+  resolved "https://registry.yarnpkg.com/@types/react-table/-/react-table-7.0.28.tgz#763383c3e7a285892ee64f311ee97a9c254b2bb0"
+  integrity sha512-crPm70S2KYGj3HJ2zCoeT0t8tdIvKDKCClMd1up3Gi/EDiTZraj3JFUsEL3+oXGSyv+n0EGGAf9a+0XsmdGpXA==
   dependencies:
     "@types/react" "*"
 
